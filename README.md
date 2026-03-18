@@ -29,12 +29,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 
-<br clear="both"/>
-<p align="center">
-  <img height="180" src="URL1"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180" src="URL2"/>
-</p>
+<br/>
 
 ---
 
