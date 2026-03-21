@@ -44,11 +44,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-pla
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metriii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metriii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20&count_private=true" 
+/>
 
 
 <br/>
