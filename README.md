@@ -1,90 +1,71 @@
-# 💻 Vinícius Metri
+# 👋 Olá! Eu sou o Vinícius Metri
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Vinícius Metri, tenho 20 anos e sou natural de Alagoas. Atualmente, estou cursando Sistema de Informação no Centro de Estudos Superiores de Maceió (CESMAC). Sou apaixonado por tecnologia e programação, e estou buscando me desenvolver como desenvolvedor full stack.
-
-[![Mail](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:vinicius.metri.dev@email.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vin%C3%ADcius-metri-2427132b7/)
+###  Desenvolvedor FullStack | Apaixonado por Tecnologia 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" />
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-
-<br/>
+Me chamo **Vinícius Metri**, tenho 20 anos e sou natural de Alagoas. Atualmente, estou cursando **Sistema de Informação** no Centro de Estudos Superiores de Maceió (CESMAC). Sou apaixonado por tecnologia e programação, e estou buscando me desenvolver como desenvolvedor full stack, criando soluções inovadoras e eficientes. Vamos construir algo incrível juntos! 🚀
 
 ---
 
-### 📊 Estatísticas
-<p/>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Metriii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🛠️ Minhas Habilidades e Tecnologias
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metriii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20&count_private=true" 
-/>
+### 🌐 Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+### ⚙️ Backend
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<h2>🚀 Meus Projetos</h2>
+### 🗄️ Banco de Dados
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <div style="flex: 1 1 45%; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-    <h3>📌 Em breve</h3>
-    <p>Projeto em desenvolvimento...</p>
-  </div>
+### 🚀 Ferramentas
 
-  <div style="flex: 1 1 45%; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-    <h3>📌 Em breve</h3>
-    <p>Projeto em desenvolvimento...</p>
-  </div>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  <div style="flex: 1 1 45%; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-    <h3>📌 Em breve</h3>
-    <p>Projeto em desenvolvimento...</p>
-  </div>
+---
 
-  <div style="flex: 1 1 45%; border: 1px solid #30363d; border-radius: 12px; padding: 20px;">
-    <h3>📌 Em breve</h3>
-    <p>Projeto em desenvolvimento...</p>
-  </div>
+## 📊 Minhas Estatísticas no GitHub
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metriii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Metriii&theme=tokyonight&layout=compact&langs_count=20&count_private=true&hide_border=true)
+
+---
+
+## 🚧 Meus Projetos
+
+Estou sempre trabalhando em algo novo e empolgante! Fique ligado para as novidades.
+
+- ⏳ **Projeto Incrível 1:** Em breve...
+- ⏳ **Projeto Inovador 2:** Em breve...
+- ⏳ **Projeto Desafiador 3:** Em breve...
+
+---
+
+## 💡 Habilidades e Competências
+
+- **Resolução de Problemas:** Abordagem lógica e criativa para desafios complexos.
+- **Aprendizado Contínuo:** Curiosidade e dedicação para dominar novas tecnologias.
+- **Trabalho em Equipe:** Colaboração eficaz e comunicação clara.
+- **Pensamento Crítico:** Análise aprofundada para tomar decisões informadas.
+- **Organização:** Gerenciamento de tarefas e projetos.
+
+---
+
+## 📧 Contato
+
+[![Mail](https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail&style=for-the-badge)](mailto:vinicius.metri.dev@email.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/vinícius-metri-2427132b7/)
+
+---
+
+### 🌟 Obrigado pela visita!
